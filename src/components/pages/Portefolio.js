@@ -7,7 +7,7 @@ import Presentation from '../Presentation';
 import TimeLine from '../TimeLine';
 import Contact from '../Contact';
 
-function Home() {
+function Portefolio() {
     return (
         <>
             <Presentation />
@@ -20,4 +20,4 @@ function Home() {
     )
 }
 
-export default Home;
+export default Portefolio;
