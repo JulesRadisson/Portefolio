@@ -28,7 +28,6 @@ function Cards() {
                     </p>}
                     linkItch="https://theodull.itch.io/bread-and-games"
                     linkGit="https://github.com/sanamiro/LDGladiator"
-                    linkYT="https://google.com"
                 />
                 <CardItem
                     src={ChipsRoyaleImg}
@@ -44,7 +43,6 @@ function Cards() {
                         </p>}
                     linkItch="https://yesa.itch.io/chips-royale"
                     linkGit="https://github.com/sanamiro/ChipsRoyale"
-                    linkYT="https://google.com"
                 />
                 {/*<CardItem*/}
                 {/*    src={MapARImg}*/}
