@@ -1,14 +1,14 @@
 {
   "files": {
-    "main.css": "/Portefolio/static/css/main.12f656be.chunk.css",
-    "main.js": "/Portefolio/static/js/main.32a48e0c.chunk.js",
-    "main.js.map": "/Portefolio/static/js/main.32a48e0c.chunk.js.map",
+    "main.css": "/Portefolio/static/css/main.5bd33da9.chunk.css",
+    "main.js": "/Portefolio/static/js/main.dd67326f.chunk.js",
+    "main.js.map": "/Portefolio/static/js/main.dd67326f.chunk.js.map",
     "runtime-main.js": "/Portefolio/static/js/runtime-main.7f1d8af4.js",
     "runtime-main.js.map": "/Portefolio/static/js/runtime-main.7f1d8af4.js.map",
     "static/js/2.2603f9fb.chunk.js": "/Portefolio/static/js/2.2603f9fb.chunk.js",
     "static/js/2.2603f9fb.chunk.js.map": "/Portefolio/static/js/2.2603f9fb.chunk.js.map",
     "index.html": "/Portefolio/index.html",
-    "static/css/main.12f656be.chunk.css.map": "/Portefolio/static/css/main.12f656be.chunk.css.map",
+    "static/css/main.5bd33da9.chunk.css.map": "/Portefolio/static/css/main.5bd33da9.chunk.css.map",
     "static/js/2.2603f9fb.chunk.js.LICENSE.txt": "/Portefolio/static/js/2.2603f9fb.chunk.js.LICENSE.txt",
     "static/media/BreadAndGames.a1589e84.png": "/Portefolio/static/media/BreadAndGames.a1589e84.png",
     "static/media/CVLogo.4f083680.svg": "/Portefolio/static/media/CVLogo.4f083680.svg",
@@ -36,7 +36,7 @@
   "entrypoints": [
     "static/js/runtime-main.7f1d8af4.js",
     "static/js/2.2603f9fb.chunk.js",
-    "static/css/main.12f656be.chunk.css",
-    "static/js/main.32a48e0c.chunk.js"
+    "static/css/main.5bd33da9.chunk.css",
+    "static/js/main.dd67326f.chunk.js"
   ]
 }
