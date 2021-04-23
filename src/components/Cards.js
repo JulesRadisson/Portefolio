@@ -9,6 +9,7 @@ import PodraceVRImg from '../images/PodRacer.png';
 import ChipsRoyaleImg from '../images/ChipsRoyale.jpg';
 import BreadAndGamesImg from '../images/BreadAndGames.png';
 import InfiltraSon from '../images/InfiltraSon.png';
+import LabyRush from '../images/LabyRush.png';
 
 function Cards() {
     return (
@@ -70,9 +71,9 @@ function Cards() {
                     linkYT="https://www.youtube.com/watch?v=sPc-93RiMtg"
                 />
                 <CardItem
-                    src={MapARImg}
+                    src={LabyRush}
                     title="LabyRush"
-                    texte={<p>Projet de premi&egrave;re ann&eacute;e &agrave; l&apos;Enjmin : r&eacute;alisation d&apos;un jeu multijoueur en ligne, par &eacute;quipe de 5.
+                    texte={<p><br /> <br />Projet de premi&egrave;re ann&eacute;e &agrave; l&apos;Enjmin : r&eacute;alisation d&apos;un jeu multijoueur en ligne, par &eacute;quipe de 5.
                         Cr&eacute;&eacute; sur Unity (C#) en utilisant le plug-in Photon.<br /> <br />
                         Dans LabyRush, les joueurs font la course dans un labyrinthe g&eacute;n&eacute;r&eacute; al&eacute;atoirement.
                         Des pouvoirs peuvent &ecirc;tre r&eacute;cup&eacute;r&eacute;s et utilis&eacute;s pour modifier l&apos;environnement et pi&eacute;ger ses adversaires. 
@@ -100,11 +101,11 @@ function Cards() {
                     src={MinicraftImg}
                     title="Minicraft"
                     texte={<p>
-                        Atelier centr&eacute; sur les shaders, la r&eacute;alisation d&apos;un moteur de jeu ainsi que sur l&apos;al&eacute;atoire (Perlin).
+                        <br /> <br />Atelier centr&eacute; sur les shaders, la r&eacute;alisation d&apos;un moteur de jeu ainsi que sur l&apos;al&eacute;atoire (Perlin).
                         Customisation d&apos;un moteur de jeu fourni par l&apos;intervenant sur OpenGL (C++).<br /> <br />
                         R&eacute;alisation en quelques jours d&apos;un g&eacute;n&eacute;rateur de monde type Minecraft. Ont &eacute;t&eacute; cod&eacute;s, &agrave; partir du
                         moteur de jeu fourni : la cam&eacute;ra et son d&eacute;placement, le cycle jour / nuit, la g&eacute;n&eacute;ration d&apos;un monde
-                        al&eacute;atoire avec cavernes, &eacute;tangs, arbres, montagnes,... mais aussi le d&eacute;placement du joueur dans le monde.
+                        al&eacute;atoire avec cavernes, &eacute;tangs, arbres, montagnes,... mais aussi le d&eacute;placement du joueur dans le monde.<br /> <br />
                     </p>}
                 />
                 <CardItem
@@ -132,15 +133,15 @@ function Cards() {
                     linkDrive= "https://drive.google.com/file/d/1cvw1S3vtmL8n2_VchFeg8GxZOpTktcGp/view?usp=sharing"
                     linkGit="https://github.com/florian-las/MapAR"
                 />
-                <CardItem
-                    src={MapARImg}
-                    title="Joute"
-                    texte={<p>
-                        Projet personnel : Joute est un jeu de soci&eacute;t&eacute; inspir&eacute; par des titres comme Boss Monster ou Epic Spell Wars.
-                        J&apos;ai cr&eacute;&eacute; l&apos;ensemble des r&egrave;gles et cartes du jeu. Une maquette est en cours de test afin d&apos;am&eacute;liorer certains
-                        aspects du gameplay, et je souhaite proposer ce jeu &agrave; des &eacute;diteurs lorsque j&apos;en serais satisfait.
-                        </p>}
-                />
+                {/*<CardItem*/}
+                {/*    src={MapARImg}*/}
+                {/*    title="Joute"*/}
+                {/*    texte={<p>*/}
+                {/*        Projet personnel : Joute est un jeu de soci&eacute;t&eacute; inspir&eacute; par des titres comme Boss Monster ou Epic Spell Wars.*/}
+                {/*        J&apos;ai cr&eacute;&eacute; l&apos;ensemble des r&egrave;gles et cartes du jeu. Une maquette est en cours de test afin d&apos;am&eacute;liorer certains*/}
+                {/*        aspects du gameplay, et je souhaite proposer ce jeu &agrave; des &eacute;diteurs lorsque j&apos;en serais satisfait.*/}
+                {/*        </p>}*/}
+                {/*/>*/}
             </div>
         </div>
         )
