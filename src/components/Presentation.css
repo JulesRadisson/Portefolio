@@ -37,7 +37,7 @@
 
     .presentation-txt {
         margin-top: 5%;
-        width: 60%;
+        width: 100%;
     }
 
     .presentation-name {
@@ -46,13 +46,16 @@
     }
 
     .presentation-desc {
-        font-size: 15px;
+        font-size: 12px;
+    }
+
+    .presentation-img-wrapper { 
+        width : 90%;
+        text-align : right;
     }
 
     .presentation-img {
         height: 125px;
-        margin-top: 3%;
-        margin-left: 5%;
-        margin-right: 5%;
+        margin-top: 5%;
     }
 }
