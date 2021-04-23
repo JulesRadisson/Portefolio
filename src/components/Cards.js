@@ -45,18 +45,18 @@ function Cards() {
                     linkGit="https://github.com/sanamiro/ChipsRoyale"
                     linkYT="https://google.com"
                 />
-                <CardItem
-                    src={MapARImg}
-                    title="7 Shapes"
-                    texte={<p>
-                        Durant mes 3 ann&eacute;es d&apos;alternance chez 7 Shapes, j&apos;ai pu travailler sur de nombreux projets,
-                        dans le but d&apos;am&eacute;liorer le jeu ou de r&eacute;pondre au besoin d&apos;un client. J&apos;ai par exemple con&ccedil;u et cod&eacute;
-                        la quasi-int&eacute;gralit&eacute; des niveaux-le&ccedil;ons du jeu. J&apos;ai aussi particip&eacute; &agrave; la r&eacute;alisation
-                        des diff&eacute;rents mini-jeux disponibles, g&eacute;n&eacute;ralement au niveau du code et du d&eacute;bogage
-                        et toujours au niveau du game design.
-                        </p>}
-                    linkYT="https://www.youtube.com/watch?v=8hRN-HrpQKo"
-                />
+                {/*<CardItem*/}
+                {/*    src={MapARImg}*/}
+                {/*    title="7 Shapes"*/}
+                {/*    texte={<p>*/}
+                {/*        Durant mes 3 ann&eacute;es d&apos;alternance chez 7 Shapes, j&apos;ai pu travailler sur de nombreux projets,*/}
+                {/*        dans le but d&apos;am&eacute;liorer le jeu ou de r&eacute;pondre au besoin d&apos;un client. J&apos;ai par exemple con&ccedil;u et cod&eacute;*/}
+                {/*        la quasi-int&eacute;gralit&eacute; des niveaux-le&ccedil;ons du jeu. J&apos;ai aussi particip&eacute; &agrave; la r&eacute;alisation*/}
+                {/*        des diff&eacute;rents mini-jeux disponibles, g&eacute;n&eacute;ralement au niveau du code et du d&eacute;bogage*/}
+                {/*        et toujours au niveau du game design.*/}
+                {/*        </p>}*/}
+                {/*    linkYT="https://www.youtube.com/watch?v=8hRN-HrpQKo"*/}
+                {/*/>*/}
                 <CardItem
                     src={PodraceVRImg}
                     title="PodraceVR"
@@ -80,7 +80,6 @@ function Cards() {
                         </p>}
                     linkDrive="https://drive.google.com/file/d/1O9l4FZzT8Y6t_Cjord1Z47ov3I7bYVd3/view?usp=sharing"
                     linkGit="https://github.com/tomatopp1/LabyRush"
-                    linkYT="https://google.com"
                 />
                 <CardItem
                     src={HotTLineImg}
@@ -107,7 +106,6 @@ function Cards() {
                         moteur de jeu fourni : la cam&eacute;ra et son d&eacute;placement, le cycle jour / nuit, la g&eacute;n&eacute;ration d&apos;un monde
                         al&eacute;atoire avec cavernes, &eacute;tangs, arbres, montagnes,... mais aussi le d&eacute;placement du joueur dans le monde.
                     </p>}
-                    linkGit="https://google.com"
                 />
                 <CardItem
                     src={InfiltraSon}
@@ -133,7 +131,6 @@ function Cards() {
                            fonctionne une carte de course d&apos;orientation.</p>}
                     linkDrive= "https://drive.google.com/file/d/1cvw1S3vtmL8n2_VchFeg8GxZOpTktcGp/view?usp=sharing"
                     linkGit="https://github.com/florian-las/MapAR"
-                    linkYT="https://google.com"
                 />
                 <CardItem
                     src={MapARImg}

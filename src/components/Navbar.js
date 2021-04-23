@@ -18,6 +18,7 @@ function Navbar() {
             setButton(false);
         } else {
             setButton(true);
+            console.log("button must show");
         }
     }
 

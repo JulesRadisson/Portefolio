@@ -32,6 +32,7 @@
     .presentation {
         margin-left: 4%;
         margin-right: 0%;
+        margin-bottom : 20%;
     }
 
     .presentation-txt {
@@ -49,8 +50,9 @@
     }
 
     .presentation-img {
-        height: 150px;
-        margin-top : 3%;
-        margin-left : 10%;
+        height: 125px;
+        margin-top: 3%;
+        margin-left: 5%;
+        margin-right: 5%;
     }
 }

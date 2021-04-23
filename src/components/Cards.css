@@ -107,6 +107,11 @@ h1 {
     .cards {
         padding: 1rem;
         background: #fff;
+        margin-top : 10%;
+    }
+
+    h1 {
+       margin-bottom : 10%;
     }
 
     .cards-container {
